@@ -20,3 +20,7 @@ Rating:
 
 --
 Trabaja con JSX = JS + XML
+
+### ¿Qué es babel?
+
+Transpila el código para que sea compatible en todos los navegadores
