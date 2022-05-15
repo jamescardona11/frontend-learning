@@ -24,3 +24,9 @@ Trabaja con JSX = JS + XML
 ### ¿Qué es babel?
 
 Transpila el código para que sea compatible en todos los navegadores
+
+### Componentes
+
+Crear piezas reutilizables que nos ayude a dividir nuestra aplicación
+Cada componente cumple una unica función
+Puede tener estado o no
