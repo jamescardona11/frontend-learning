@@ -17,11 +17,12 @@
 // reportWebVitals();
 
 import React from 'react';
-import ReactDOM from 'react-dom';
+import { createRoot } from 'react-dom/client';
 import './index.css';
 
 import CounterApp from './CounterApp';
 
-const divRoot = document.querySelector('#root')
+const divRoot = document.getElementById('root')
+const root = createRoot(divRoot);
 
-ReactDOM.render(<CounterApp value= {122}/>, divRoot);
+root.render(<CounterApp value= {122}/>);

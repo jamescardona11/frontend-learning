@@ -40,3 +40,8 @@ Los objetos no pueden devolverse en componente dentro de {}, usar JSON.stringigy
 Todo componente tiene algo que se llama props (properties)
 usar PropTypes para pedir los valores y decidir el tipo. (propTypes)
 se puede usar defaultProps para los valores por defecto.
+Eventos: https://es.reactjs.org/docs/events.html
+React hook: https://es.reactjs.org/docs/hooks-intro.html
+Hook = es simplemente función
+handleSubtract y HandleReset
+cambios de la 18= https://reactjs.org/blog/2022/03/08/react-18-upgrade-guide.html

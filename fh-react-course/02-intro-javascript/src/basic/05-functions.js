@@ -20,3 +20,14 @@ const getUser = () =>
   })
 
   console.log(getUser());
+
+
+  // useState
+  const useState = (value) => {
+    return [value, ()=> {console.log('Hey bro')}];
+  }
+
+  // eslint-disable-next-line react-hooks/rules-of-hooks
+  const [name, setName] = useState('Goku');
+
+  setName();
