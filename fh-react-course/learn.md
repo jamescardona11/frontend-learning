@@ -30,3 +30,13 @@ Transpila el código para que sea compatible en todos los navegadores
 Crear piezas reutilizables que nos ayude a dividir nuestra aplicación
 Cada componente cumple una unica función
 Puede tener estado o no
+
+### Conceptos
+
+Functional Components= Cuando creamos una funcion para devolver un componente
+Fragment: Es un higher component
+En vez de fragment puedo colocar: <>
+Los objetos no pueden devolverse en componente dentro de {}, usar JSON.stringigy
+Todo componente tiene algo que se llama props (properties)
+usar PropTypes para pedir los valores y decidir el tipo. (propTypes)
+se puede usar defaultProps para los valores por defecto.
