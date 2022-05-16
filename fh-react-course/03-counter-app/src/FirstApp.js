@@ -16,7 +16,7 @@ const FirstApp = ( {sayHello, subtitle} ) => {
 
 FirstApp.propTypes = {
   sayHello: PropTypes.string.isRequired,
-  subtitle: 'Subtitle: First app'
+  subtitle: PropTypes.string
 }
 
 FirstApp.defaultProps = { 
