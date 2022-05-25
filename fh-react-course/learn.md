@@ -20,6 +20,7 @@ Rating:
 
 --
 Trabaja con JSX = JS + XML
+Create app docs = https://create-react-app.dev/
 
 ### ¿Qué es babel?
 
