@@ -90,4 +90,6 @@ Probar la ruta critica de la aplicación
 
 Libreria para probar: https://jestjs.io/
 
-####
+#### Animations CSS
+
+https://animate.style/
