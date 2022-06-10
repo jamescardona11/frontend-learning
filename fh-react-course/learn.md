@@ -55,41 +55,45 @@ Probar la ruta critica de la aplicación
 
 ##### Caracteristicas:
 
--   Fáciles de escribir
--   Fáciles de leer
--   Confiables
--   Rápidas
--   Principalmente unitarias
--   AAA
+- Fáciles de escribir
+- Fáciles de leer
+- Confiables
+- Rápidas
+- Principalmente unitarias
+- AAA
 
 ##### AAA
 
 1. **arrange** (arreglas): Preparamos el estado inicial de la prueba (sujeto de prueba)
 
--   inicializamos variables
--   Mockeamos
--   Importaciones
+- inicializamos variables
+- Mockeamos
+- Importaciones
 
 2. **Act** (actuar): Aplicamos acciones o estímulos al sujeto de prueba
 
--   Llamar métodos
--   Simulamos clicks
+- Llamar métodos
+- Simulamos clicks
 
 3. **Assert** (Afirmar): Observar el comportamiento resultante
 
--   Son los resultados esperados
-    ex: que algo cambie, algo incremente o que no suceda nada
+- Son los resultados esperados
+  ex: que algo cambie, algo incremente o que no suceda nada
 
 ##### Mitos
 
--   Hacen la aplicaciópn no tenga errores
--   Las pruebas no pueden fallar
--   Hacen más lenta mi aplicación
--   Es una perdida de tiempo (si probamos cosas innecesarias)
--   Hay que prbar todo
+- Hacen la aplicaciópn no tenga errores
+- Las pruebas no pueden fallar
+- Hacen más lenta mi aplicación
+- Es una perdida de tiempo (si probamos cosas innecesarias)
+- Hay que prbar todo
 
 Libreria para probar: https://jestjs.io/
 
 #### Animations CSS
 
 https://animate.style/
+
+### HOOKS
+
+#####
