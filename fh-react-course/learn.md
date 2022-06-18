@@ -96,4 +96,12 @@ https://animate.style/
 
 ### HOOKS
 
-#####
+Es una función que se encarga de hacer manipulaciones en react
+
+##### USESTATE
+
+Para manipular el estado
+
+##### USEEFFECT
+
+Ejecutar efectos secundarios cuando algo suceda
