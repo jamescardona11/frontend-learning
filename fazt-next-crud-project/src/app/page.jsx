@@ -1,7 +1,26 @@
+import { prisma } from "@/libs/prisma"
+import { TaskCard } from "@/components/TaskCard"
 
-const HomePage = () => {
+async function loadTasks() {
+  const task = await prisma.task.findMany();
+  return task;
+}
+
+async function HomePage() {
+
+  const task = await loadTasks();
+
   return (
-    <div>HomePage</div>
+    <section className="container">
+
+      <div className="grid grid-cols-3 gap-3 mt-10">
+        {
+          task.map((task) => (
+            <TaskCard key={task.id} task={task} />
+          ))
+        }
+      </div>
+    </section>
   )
 }
 
