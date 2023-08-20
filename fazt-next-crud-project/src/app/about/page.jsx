@@ -1,0 +1,12 @@
+
+const About = () => {
+  return (
+    <div>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deserunt quos aspernatur iste cum voluptatem! Numquam consequuntur quis doloribus veniam sit sapiente ad iure, nostrum, velit alias quam vitae, laudantium deserunt iusto reiciendis nobis saepe eligendi ut? Eveniet debitis consectetur exercitationem est cum quo laborum. Earum ullam similique voluptates asperiores praesentium hic inventore alias cum vel nam autem aut molestiae eligendi quidem, odit debitis provident. Voluptatum obcaecati molestias modi, esse quibusdam eveniet temporibus, voluptates et quam fuga dolores voluptatibus perferendis nemo harum tempore, suscipit quod cumque doloremque repudiandae sit consectetur inventore. Nemo ea distinctio ipsum, consequuntur porro quam veniam iusto aperiam!
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit.Deserunt quos aspernatur iste cum voluptatem! Numquam consequuntur quis doloribus veniam sit sapiente ad iure, nostrum, velit alias quam vitae, laudantium deserunt iusto reiciendis nobis saepe eligendi ut ? Eveniet debitis consectetur exercitationem est cum quo laborum.Earum ullam similique voluptates asperiores praesentium hic inventore alias cum vel nam autem aut molestiae eligendi quidem, odit debitis provident.Voluptatum obcaecati molestias modi, esse quibusdam eveniet temporibus, voluptates et quam fuga dolores voluptatibus perferendis nemo harum tempore, suscipit quod cumque doloremque repudiandae sit consectetur inventore.Nemo ea distinctio ipsum, consequuntur porro quam veniam iusto aperiam!
+
+      export default AbouLorem ipsum, dolor sit amet consectetur adipisicing elit.Deserunt quos aspernatur iste cum voluptatem! Numquam consequuntur quis doloribus veniam sit sapiente ad iure, nostrum, velit alias quam vitae, laudantium deserunt iusto reiciendis nobis saepe eligendi ut ? Eveniet debitis consectetur exercitationem est cum quo laborum.Earum ullam similique voluptates asperiores praesentium hic inventore alias cum vel nam autem aut molestiae eligendi quidem, odit debitis provident.Voluptatum obcaecati molestias modi, esse quibusdam eveniet temporibus, voluptates et quam fuga dolores voluptatibus perferendis nemo harum tempore, suscipit quod cumque doloremque repudiandae sit consectetur inventore.Nemo ea distinctio ipsum, consequuntur porro quam veniam iusto aperiam!
+
+    </div>)
+}
+
+export default About
